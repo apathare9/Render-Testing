@@ -1,11 +1,8 @@
 {
-  "name": "crud_app",
-  "version": "19.0.0",
+ 
   "description": "crud api with express and mongodb",
   "main": "server.js",
-  "engines": {
-    "node": "^19.0.0"
-  },
+ 
 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
